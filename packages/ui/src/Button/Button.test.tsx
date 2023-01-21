@@ -1,5 +1,5 @@
-import { render } from '@testing-library/react';
 import { Button } from '.';
+import { render } from '@testing-library/react';
 
 describe('Button', () => {
   it('正しく表示されること', () => {

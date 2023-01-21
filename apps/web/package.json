@@ -1,5 +1,5 @@
 {
-  "name": "@my-storybook-playground/web",
+  "name": "@storybook-playground/web",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
@@ -21,7 +21,7 @@
     "recoil": "^0.7.6"
   },
   "devDependencies": {
-    "@ui": "workspace:@my-storybook-playground/ui@*",
+    "@ui": "workspace:@storybook-playground/ui@*",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@types/node": "^17.0.21",
