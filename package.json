@@ -1,0 +1,14 @@
+{
+  "name": "my-storybook-playground",
+  "license": "UNLICNESED",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "turbo run build",
+    "clean": "turbo run clean",
+    "dev": "turbo run dev --no-cache  --continue"
+  },
+  "devDependencies": {
+    "turbo": "^1.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+// Vitest Snapshot v1
+
+exports[`Button > 正しく表示されること 1`] = `
+<DocumentFragment>
+  <button
+    type="button"
+  >
+    送信
+  </button>
+</DocumentFragment>
+`;
